@@ -15,6 +15,7 @@ You can register via meetup https://www.meetup.com/machine-learning-hong-kong/
 * ### [Class 3: Rademarcher Complexity](https://github.com/roboticcam/machine-learning-notes/blob/master/files/3.rademarcher.pdf) ###
 * ### [Class 4: Neural Tangent Kernel](https://github.com/roboticcam/machine-learning-notes/blob/master/files/4.ntk.pdf) ###
 * ### [Class 5: PAC Bayes](https://github.com/roboticcam/machine-learning-notes/blob/master/files/5.pac_bayes.pdf) ###
+* ### [Class 4: Neural Tangent Kernel](https://github.com/roboticcam/machine-learning-notes/blob/master/files/4.ntk.pdf) ###
 * ### [Class 6: Johnson–Lindenstrauss lemma](https://github.com/roboticcam/machine-learning-notes/blob/master/files/j_l_lemma.pdf) ###
 
 
